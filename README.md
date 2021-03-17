@@ -9,7 +9,7 @@ return reverse(arr)
 sol2)
 
 function reverseArray(arr){
-arr.map((item , id) => {
-    return arr[arr.length-1-id]
+return arr.map((item , id) => {
+   arr[arr.length-1-id]
 })
 }
