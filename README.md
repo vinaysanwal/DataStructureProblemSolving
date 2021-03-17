@@ -3,7 +3,7 @@ Problem 1: Reverse an Array::
 Sol1)
 
 function reverseArray(arr){
-return reverse(arr)
+return arr.reverse()
 }
 
 sol2)
